@@ -14,4 +14,3 @@ I can help unlock hidden insights within data. With experience in statistics and
 ## 🛠 Skills
 SQL, Python, HTML, CSS, C, C++ ...
 
-![Logo](https://github.com/harshk1234/harshk1234/blob/README.md/BlogHeader_Motion-2.jpg)
