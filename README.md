@@ -2,8 +2,7 @@
 
 
 # Hi, I'm Harshal! 👋
-I can help unlock hidden insights within data. With experience in statistics and research, I can help from exploratory data analysis, through to model development and evaluation.
-
+## I can help unlock hidden insights within data.
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
 ## 🔗 Links
