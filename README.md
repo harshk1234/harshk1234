@@ -18,5 +18,5 @@
 SQL, Python, HTML, CSS, C, C++ ...
 
 <p align="center">
-<h1>Check out my repository ⬇️  
+<h1>Check out my repositories ⬇️  
 </p>
