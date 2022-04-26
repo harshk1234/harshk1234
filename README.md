@@ -17,7 +17,8 @@
 ## 🛠 Skills
 - 👨‍💻 Python,C++,C programming,HTML,CSS.
 - 👁️ AWS
-- 💽 MySQL, PLSQL, 
+- ETL,EDA
+- 💽 MySQL, PLSQL 
 
 <p align="center">
 <h1>Check out my repositories ⬇️  
