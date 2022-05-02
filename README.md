@@ -3,7 +3,6 @@
 
 # Hi, I'm Harshal! 👋
 ## I can help unlock hidden insights within data.
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 
 ## 🔗 Links
 
