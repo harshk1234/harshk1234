@@ -18,7 +18,7 @@
 ## 🛠 Skills
 - 👨‍💻 Python,C++,C programming,HTML,CSS.
 - 💽 MySQL, PLSQL 
-- 👁️ EDA, AWS 
+- 👁️ Azure Cloud. 
 
 
 <p align="center">
