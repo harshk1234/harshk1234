@@ -16,9 +16,21 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AcSagacity)
 
 ## 🛠 Skills
-- 👨‍💻 Python,C++,C programming,HTML,CSS.
-- 💽 MySQL, PLSQL 
-- 👁️ Azure Cloud, ADF 
+Skills:
+Data Modeling
+Data Lake (ADLS Blob Storage, AWS S3)
+Data Ingestion & APIs (REST, GraphQL)
+ETL Tools (Azure Data Factory, Apache Airflow, Domo Magic ETL, SQL Dataflow)
+Data Warehousing (SQL Server, Microsoft Azure Synapse Analytics, DOMO)
+Business Intelligence Platforms (DOMO, Power BI)
+SQL, Python
+Databases (SQL: PostgreSQL, MS SQL Server, MySQL, IBM DB2; NoSQL: MongoDB)
+Stelo Replication Manager
+Cloud Platforms (Azure, DOMO)
+Databricks (Spark, PySpark, Delta Lake Architecture, Data Lake Architecture)
+CI/CD (Azure DevOps, Terraform)
+Data Governance & Lineage (Unity Catalog)
+Monitoring & Troubleshooting (DOMO, Azure Data Factory) 
 
 
 <p align="center">
