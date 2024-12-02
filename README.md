@@ -22,7 +22,7 @@ Skills:
 - Data Ingestion & APIs (REST, GraphQL)
 - ETL Tools (Azure Data Factory, Apache Airflow, Domo Magic ETL, SQL Dataflow)
 - Data Warehousing (SQL Server, Microsoft Azure Synapse Analytics, DOMO)
-- Business Intelligence Platforms (DOMO, Power BI)
+- Business Intelligence Platforms (DOMO, Power BI, Tablue)
 - SQL, Python
 - Databases (SQL: PostgreSQL, MS SQL Server, MySQL, IBM DB2; NoSQL: MongoDB)
 - Cloud Platforms (Azure, DOMO)
